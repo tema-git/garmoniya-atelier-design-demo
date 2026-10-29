@@ -1,0 +1,32 @@
+{
+  "brand": "Гармония и Качество",
+  "short_brand": "Гармония",
+  "slug": "garmoniya-atelier-design-demo",
+  "email": "oth32@rambler.ru",
+  "phone": "+79096205671",
+  "phone_display": "+7 909 620-56-71",
+  "address": "улица Таганская, 3",
+  "city": "Москва",
+  "telegram": null,
+  "source_urls": [
+    "https://asktel.ru/moskva/atele_mehovoe/garmoniya_kachestvo/",
+    "https://msk.spravka.city/company/garmoniya-i-kachestvo",
+    "https://moskva1.jsprav.ru/atele-po-poshivu-odezhdyi/garmoniya-i-kachestvo/"
+  ],
+  "contacted": false,
+  "spreadsheet_row": null,
+  "email_evidence": "Public company-directory email with exact matching business name/phone/address; directory update2019-08-29. Live independent directory corroborates same business phone/address; no active own website found.",
+  "email_source_date": "2019-08-29",
+  "confidence": "medium",
+  "website_status": "No own website found in exact name/address search or checked public directory contacts.",
+  "caveats": [
+    "Mailbox deliverability not tested; publicly listed email may be stale."
+  ],
+  "verified_on": "2026-10-30",
+  "template": "lepata-atelier-design-demo",
+  "template_commit": "2617d97431b663fa417961ffd5e7881d0bee6275",
+  "prepared_on": "2026-10-30",
+  "demo_only": true,
+  "data_submission": false,
+  "repository": "garmoniya-atelier-design-demo"
+}
